@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div className="container">
-      <h3>📝 ToDo App cande ferrari</h3>
+      <h3>📝 ToDo App Cande Ferrari</h3>
       <div className="input-field">
         <input
           value={input}
